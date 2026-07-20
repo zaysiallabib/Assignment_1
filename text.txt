@@ -1,7 +1,7 @@
 echo "# Assignment_1" >> README.md
 git init
 git add .
-git commit -m "first commit"
+git commit -m "Final"
 git branch -M main
 git remote add origin https://github.com/zaysiallabib/Assignment_1.git
 git push -u origin main
